@@ -1,0 +1,8 @@
+{
+  "name": "SuaraStudio - AI Indonesian Text to Speech",
+  "description": "Aplikasi Text-to-Speech Bahasa Indonesia dengan Gemini 3.1 Flash TTS bernada instruktur hangat, ramah, dan percaya diri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
